@@ -1,0 +1,4 @@
+railsInstallerDemo
+==================
+
+Test Rails installation
